@@ -12,6 +12,7 @@ public class DemoApplication {
 	public void init(){
 		logger.info("Application will Started...");
 		logger.info("Application Started...");
+		logger.info("Application Started...");
 	}
 	public static void main(String[] args) {
 		logger.info("Application Executed...");
