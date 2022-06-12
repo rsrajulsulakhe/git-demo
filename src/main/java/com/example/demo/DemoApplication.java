@@ -10,6 +10,7 @@ public class DemoApplication {
 
 	public static Logger logger = LoggerFactory.getLogger(DemoApplication.class);
 	public void init(){
+		logger.info("Application will Started...");
 		logger.info("Application Started...");
 	}
 	public static void main(String[] args) {
